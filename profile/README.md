@@ -16,6 +16,9 @@ To fulfill above requirements I have created three projects:
 ## Invite.me 
 Main challange of this project and the biggest piece of cake to eat. Web application written in flask framework. I had thought it would be only a few hundred lines of code (LMAO) so flask was a natural winner. Unfortunately a project became biger than I thought, but finally I managed to make it as cute as it was able to.
 
+first view of program
+![image](https://user-images.githubusercontent.com/64653975/217074019-6ea1eda7-94c0-46c1-93f3-9da94f2101d6.png)
+
 ## Invite.me-reader
 Tkinter, the most classical choice to create GUI application. Program just scans QR codes and sends information to invite.me api endpoints.
 beta version on my friends surface:
