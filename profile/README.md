@@ -1,7 +1,7 @@
 invite.me
 ============
 
-# What am I looking at?
+# What are you looking at?
 Invite me is a project made for prom night in my tech high school. The main point was to create application able to :
 - create invitation and declaration
 - send invitation and declaration to the users with e-mail
